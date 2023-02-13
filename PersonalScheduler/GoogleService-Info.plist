@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>988463352354-2v9er38jl366u3p9tepr6o03ah472l5q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.988463352354-2v9er38jl366u3p9tepr6o03ah472l5q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDsv2RooeVye6R9G8CTKuZTB9i5_rMr5nE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>988463352354</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.PersonalScheduler.dragon</string>
+	<key>PROJECT_ID</key>
+	<string>wanted-personalscheduler</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wanted-personalscheduler.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:988463352354:ios:513e4d153a969fe9e7d87b</string>
+</dict>
+</plist>
